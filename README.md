@@ -6,13 +6,8 @@
 </div>  
   
 
-I'm Mitch Rabsatt, ex Mechanical Engineer turn Data Scientist who enjoys quant science. I'm currently working as a Data Scientist at Hillsborough County. With over 5 years of experience in the field, I've had the opportunity to work on a lot of exciting projects that supports Tampa Bay's municipalities and county government.  
-  
 
-  
-  
-
-- ⚡ Fun fact: Tabs over spaces all day.  
+I’m Mitch, a former Mechanical Engineer turned Senior Data Scientist passionate about quantitative science, scalable data solutions, and impactful analytics. With over 5 years of industry experience, I build end-to-end data pipelines, design robust machine learning models, and partner with cross-functional teams to drive data-driven decisions for Tampa Bay’s municipalities and county government. 
   
 
 <br/>  
@@ -23,38 +18,69 @@ I'm Mitch Rabsatt, ex Mechanical Engineer turn Data Scientist who enjoys quant s
 
 
 
-### Frontend  
+### Frontend & Visualization  
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
+  <a href="https://matplotlib.org/" target="_blank">
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="50" />
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img style="margin: 10px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="50" />
+  </a>
+  <a href="https://powerbi.microsoft.com/en-us/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />
+  </a>
+  <a href="https://streamlit.io/" target="_blank">
+    <img style="margin: 10px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" height="50" />
+  </a>
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### Backend  
+### Backend & Machine Learning 
 <div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+  <a href="https://www.python.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+  </a>
+  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank">
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" height="50" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="50" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="50" />
+  </a>
+  <a href="https://airflow.apache.org/" target="_blank">
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" height="50" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/azure/data-factory/introduction" target="_blank">
+    <img style="margin: 10px" src="https://azure.microsoft.com/svghandler/data-factory?width=600&height=315" alt="Azure Data Factory" height="50" />
+  </a>
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### DevOps  
+### DevOps & Infrastructure  
 <div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
+  <a href="https://azure.microsoft.com/en-in/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+  </a>  
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+  </a>
 </div>
 
 </td></tr></table>  
