@@ -7,7 +7,7 @@
   
 
 
-I’m Mitch, a former Mechanical Engineer turned Senior Data Scientist passionate about quantitative science, scalable data solutions, and impactful analytics. With over 5 years of industry experience, I build end-to-end data pipelines, design robust machine learning models, and partner with cross-functional teams to drive data-driven decisions for Tampa Bay’s municipalities and county government. 
+I’m Mitch, a former Mechanical Engineer turned Data Scientist passionate about quantitative science, scalable data solutions, and impactful analytics. With over 5 years of industry experience, I build end-to-end data pipelines, design robust machine learning models, and partner with cross-functional teams to drive data-driven decisions for Tampa Bay’s municipalities and county government. 
   
 
 <br/>  
