@@ -8,7 +8,7 @@
 
 
 Hi, I’m Mitchel Rabsatt — a Data Scientist with 4+ years of experience turning complex datasets into actionable insights and scalable machine learning solutions. My work spans the public and manufacturing sectors, where I’ve built predictive models, optimized data pipelines, and deployed production-ready systems using tools like Python, SQL, PySpark, and Azure.
-I’m passionate about applied ML, from demand forecasting and A/B testing to automated trading strategies. You can check out some of my recent work like Blackwell, a machine learning-based pairs trading platform with real-time IBKR integration.
+I’m passionate about applied ML, from demand forecasting and A/B testing to automated trading strategies. You can check out some of my recent work like [Blackwell](https://github.com/marabsatt/blackwell), a machine learning-based pairs trading platform with real-time IBKR integration.
 I enjoy designing robust analytics workflows and translating data into strategy through clean code, reproducible pipelines, and insightful dashboards. 
   
 
