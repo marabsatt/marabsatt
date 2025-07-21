@@ -51,6 +51,8 @@ I enjoy designing robust analytics workflows and translating data into strategy 
   <a href="https://www.tensorflow.org/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />
   </a>
+  <a href="https://keras.io/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="50" />
