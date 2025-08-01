@@ -7,9 +7,9 @@
   
 
 
-Hi, I’m Mitch Rabsatt, a Data Scientist with 4+ years of experience turning complex datasets into actionable insights and scalable machine learning solutions. My work spans the public and manufacturing sectors, where I’ve built predictive models, optimized data pipelines, and deployed production-ready systems using tools like Python, SQL, PySpark, and Azure.
-I’m passionate about applied ML, from demand forecasting and A/B testing to automated trading strategies. You can check out some of my recent work like [Blackwell](https://github.com/marabsatt/blackwell), a machine learning-based pairs trading platform with real-time IBKR integration.
-I enjoy designing robust analytics workflows and translating data into strategy through clean code, reproducible pipelines, and insightful dashboards. 
+Hi, I’m Mitch Rabsatt, a Data Scientist with 4+ years of experience turning complex datasets into actionable insights and scalable machine learning solutions. My work spans the public and manufacturing sectors, where I’ve built predictive models, optimized data pipelines, and deployed production-ready systems using tools like Python, SQL, TensorFlow, and Azure.
+I’m passionate about applied machine learning, from demand forecasting and A/B testing to automated trading strategies. You can check out some of my recent work like [credit risk analysis](https://github.com/marabsatt/credit-risk-analysis), a classification pipeline that predicts clients most likely to default and the key factors contributing to each client's risk profile.
+I enjoy designing robust machine learning workflows and translating data into strategy through clean code, reproducible pipelines, and insightful dashboards. 
   
 
 <br/>  
