@@ -116,7 +116,7 @@ Current focus areas:
 </td>
 <td valign="top" width="33%">
 
-<h3 align="center">Data Platforms & Analytics Delivery</h3>
+<h3 align="center">Data Platforms & Analytics</h3>
 
 <div align="center">
 
