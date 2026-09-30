@@ -43,13 +43,13 @@ Current focus areas:
 <div align="center">
 
 <a href="https://www.credly.com/badges/23a24443-7b8f-4144-9725-20922a3f00ce/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate" />
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate" />
 </a>
 
 <br/><br/>
 
-<a href="https://www.credly.com/badges/aaf18735-9d20-4dc7-96a5-434177ab13dc/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+<a href="https://www.credly.com/earner/earned/badge/17a9c234-ad4a-4a03-b3cd-2c7d365efa66" target="_blank">
+  <img src="https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7B42BC?style=for-the-badge&logo=Hashicorp&logoColor=white" alt="HashiCorp Certified: Terraform Associate" />
 </a>
 
 <br/><br/>
@@ -80,7 +80,7 @@ Current focus areas:
 <div align="center">
 
 <a href="https://www.credly.com/badges/c1a383ca-2397-4131-bd47-4c2198798f3e/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/AWS-Machine%20Learning%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Machine Learning Engineer Associate" />
+  <img src="https://img.shields.io/badge/AWS-Machine%20Learning%20Engineer%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Machine Learning Engineer Associate" />
 </a>
 
 <br/><br/>
