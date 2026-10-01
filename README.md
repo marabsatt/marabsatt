@@ -48,7 +48,7 @@ Current focus areas:
 
 <br/><br/>
 
-<a href="https://www.credly.com/earner/earned/badge/17a9c234-ad4a-4a03-b3cd-2c7d365efa66" target="_blank">
+<a href="https://www.credly.com/badges/17a9c234-ad4a-4a03-b3cd-2c7d365efa66/public_url" target="_blank">
   <img src="https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7B42BC?style=for-the-badge&logo=Hashicorp&logoColor=white" alt="HashiCorp Certified: Terraform Associate" />
 </a>
 
