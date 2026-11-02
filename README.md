@@ -29,7 +29,8 @@ Current focus areas:
 
 | Project | Status | Focus |
 |---|---|---|
-| Hybrid Multi Agent Trading Platform [sidechart](https://github.com/marabsatt/sidechart) | In progress | AWS Bedrock, RAG, Data Ingestion, Terraform |
+| [Rabsatt Design](https://rabsattdesign.com/) | In Progress | Technical Portfolio |
+| Hybrid Multi Agent Trading Platform [sidechart](https://github.com/marabsatt/sidechart) | In Progress | AWS Bedrock, RAG, Data Ingestion, Terraform |
 | GenAI RAG Risk Assesment Agent | Planned | RAG, AWS Bedrock, Vector Search, Document Ingestion, Terraform |
 
 ## Credentials & Technical Focus
