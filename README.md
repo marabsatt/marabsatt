@@ -30,7 +30,7 @@ Current focus areas:
 | Project | Status | Focus |
 |---|---|---|
 | Technical Portfolio [Rabsatt Design](https://rabsattdesign.com/) | In Progress | AWS, Route 53, Amazon CloudFront, Private Amazon S3 |
-| RAG application used to research public filings by public companies, mutual funds, and ETFs [EDGAR](https://github.com/marabsatt/edgar) | In Progress | RAG, AWS Bedrock, Vector Search, Document Ingestion, Terraform |
+| SEC Filings Financial Research Assistant [EDGAR](https://github.com/marabsatt/edgar) | In Progress | RAG, AWS Bedrock, Vector Search, Document Ingestion, Terraform |
 | Human In The Loop Agent Trading Platform [sidechart](https://github.com/marabsatt/sidechart) | Complete | AWS Bedrock, RAG, Data Ingestion, Terraform |
 
 ## Credentials & Technical Focus
